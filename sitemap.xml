@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://amalaccs.github.io/posts/hello/</loc>
+    <lastmod>2024-01-26T00:42:50+08:00</lastmod>
+  </url><url>
+    <loc>https://amalaccs.github.io/posts/</loc>
+    <lastmod>2024-01-26T00:42:50+08:00</lastmod>
+  </url><url>
+    <loc>https://amalaccs.github.io/</loc>
+    <lastmod>2024-01-26T00:42:50+08:00</lastmod>
+  </url><url>
     <loc>https://amalaccs.github.io/categories/</loc>
   </url><url>
     <loc>https://amalaccs.github.io/tags/</loc>
@@ -9,7 +18,5 @@
     <loc>https://amalaccs.github.io/archives/</loc>
   </url><url>
     <loc>https://amalaccs.github.io/search/</loc>
-  </url><url>
-    <loc>https://amalaccs.github.io/</loc>
   </url>
 </urlset>
