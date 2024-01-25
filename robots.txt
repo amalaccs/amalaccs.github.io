@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://amalaccs.github.io/sitemap.xml
