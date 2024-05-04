@@ -1,18 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>星渊阁</title>
     <link>https://amalaccs.github.io/</link>
     <description>Recent content on 星渊阁</description>
     <image>
       <title>星渊阁</title>
-      <url>https://amalaccs.github.io/static/apple-touch-icon.png</url>
-      <link>https://amalaccs.github.io/static/apple-touch-icon.png</link>
+      <url>https://amalaccs.github.io/apple-touch-icon.png</url>
+      <link>https://amalaccs.github.io/apple-touch-icon.png</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo -- 0.121.2</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 27 Jan 2024 19:30:50 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 16:59:04 +0800</lastBuildDate>
     <atom:link href="https://amalaccs.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>忏悔录</title>
+      <link>https://amalaccs.github.io/posts/book/lesconfessions/</link>
+      <pubDate>Sat, 04 May 2024 16:59:04 +0800</pubDate>
+      <guid>https://amalaccs.github.io/posts/book/lesconfessions/</guid>
+      <description>传道者说：虚空的虚空， 虚空的虚空，一切都是虚空。已有之事后必在有，已行之事后必再行，太阳底下并无新事，一切都是捕风，一切都是捉影。
+苏格拉底、叔本华、所罗门、释迦牟尼这些人类智慧者得出了对于生命认知的同样的结论。
+我生命的意义是什么？
+荒诞、毫无意义。
+或者是：
+我的生命将会变成什么样？
+什么也没有。
+或者是：
+现存的万物为什么存在？我为什么存在？
+因为存在，所以存在。
+“肉体的生命就是罪恶和谎言，死亡就是幸福，因此我们应该期望这么做。”苏格拉底说。
+“生命就是罪恶，它什么都不是，向虚无转化才是生命唯一的幸福。”叔本华说。
+“世间一切，无论是智是愚，是穷是富，是喜是悲，都是虚空。死亡会带走一切，因此荒诞。”所罗门说。
+“人生就是不可避免的痛苦、衰弱、衰老和死亡，应该使自己摆脱生命，了脱生死。”佛说。
+这些智者说的，和成千上万的普通人说的、想的、感觉到的一样。我也是这样想的，这样感觉的。我在知识中的徘徊不仅没有把我从绝望中拉出来，反而让我更加绝望。一门知识不能回答生命的问题；另一门知识虽然回答了，但却再次印证了我的绝望，并且指出，我得出的结论不是因为我的错误，也不是我病态思维的产物，相反，它向我证明，我想的都是正确的，和人类大智慧者的结论相同。
+已经没有什么好骗自己的了。一切都是虚空，没来到这个世界上的人才是幸福的，死比生好，必须摆脱生命。</description>
+    </item>
     <item>
       <title>群魔</title>
       <link>https://amalaccs.github.io/posts/book/demons/</link>
